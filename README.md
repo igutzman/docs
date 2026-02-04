@@ -1,0 +1,2 @@
+# docs
+legal-pages
