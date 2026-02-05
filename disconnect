@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Disconnect - Colorado Utility Finders Invoice Tool</title>
+</head>
+<body style="font-family: Arial, sans-serif; text-align: center; padding: 50px;">
+  <h1>Disconnect the Invoice Tool</h1>
+  <p>To disconnect this tool from your QuickBooks Online account:</p>
+  <ol style="text-align: left; max-width: 600px; margin: 0 auto;">
+    <li>Log in to QuickBooks Online.</li>
+    <li>Go to <strong>Gear icon → Apps</strong> (or My Apps).</li>
+    <li>Find "Colorado Utility Finders Invoice Tool" (or the name you used).</li>
+    <li>Click <strong>Disconnect</strong> or <strong>Remove</strong>.</li>
+  </ol>
+  <p>Once disconnected, the tool will no longer have access to your QBO data.</p>
+  <p><a href="https://igutzman.github.io/docs/launch.html">Back to Launch Page</a></p>
+</body>
+</html>
